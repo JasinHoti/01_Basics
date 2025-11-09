@@ -9,7 +9,7 @@ let a = -8;
 
 if (a >= 10) {
   // Blockklammern
-  console.log("Die Zahl ist groß");
+  console.log("Die Zahl ist groß")
 } else {
-  console.log("Die Zahl ist klein");
+  console.log("Die Zahl ist klein")
 }
