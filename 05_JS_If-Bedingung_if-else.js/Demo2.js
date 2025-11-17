@@ -13,5 +13,5 @@ if (a >= 80) {
 } else if (a >= 40) {
   console.log("Die Zahl ist positiv aber klein");
 } else {
-  console.log("Die Zahl ist klein");
+  console.log("Die Zahl ist klein"); 
 }
