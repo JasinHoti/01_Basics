@@ -4,7 +4,7 @@ let number2 = prompt("Gib die zweite Zahl ein")
 let number1AsNumber = parseInt(number1);
 let number2AsNumber = parseInt(number2);
 
-let selection = prompt("1 Add, 2 Supstract")
+let selection = prompt("press 1 to Add, Press 2 to Supstract")
 let selectionAsNumber = parseInt(selection);
 let result = 0;
 if(selectionAsNumber == 1){
@@ -14,3 +14,4 @@ if(selectionAsNumber == 1){
 }else{
     console.log("not a vallid selection")
 }
+console.log(result);
