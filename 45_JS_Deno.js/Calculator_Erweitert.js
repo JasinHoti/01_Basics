@@ -9,7 +9,7 @@ let selection = prompt(
 );
 let selectionAsNumber = parseInt(selection);
 
-let result = 0;
+let result = -1;
 if (selectionAsNumber == 1) {
   result = number1AsNumber + number2AsNumber;
 } else if (selectionAsNumber == 2) {
