@@ -11,4 +11,3 @@ for (let i = start; i <= end; i++) {
 } 
 
 console.log("Summe:", sum);
-
