@@ -1,3 +1,36 @@
+body{margin:0px;}
+
 .body {
-  background-color: beige;
+  background-color: whitesmoke;
 }
+
+.body1 {
+  background-color: rgb(222, 222, 161);
+  padding-left: ;
+}
+.inf {
+  background-color: burlywood;
+  padding-right: 600px;
+  padding-left: 10px;
+  display: inline-block;
+  border: 2px solid chocolate;
+  ;
+}
+
+.infi {
+  background-color: burlywood;
+  padding-right: 180px;
+  padding-left: 10px;
+  display: inline-block;
+  border: 2px solid chocolate;
+  border-radius: 10px;
+}
+.around{
+  background-color: lightgoldenrodyellow;
+  
+}
+
+  .eingezogen {
+    padding-left: 50px;
+  }
+
