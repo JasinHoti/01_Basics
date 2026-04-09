@@ -12,8 +12,21 @@
 }
 
 .index2 {
-background-color: chocolate;
-height: 100px;
-width: 100px;
-padding-left: 400px;
+  background-color: chocolate;
+  height: 50px;
+  width: 100px;
+  padding-left: 400px;
+}
+
+.con {
+  
+}
+
+.con2 {
+  border-style: solid;
+  padding: 10px;
+}
+
+.con3 {
+  display: flex;
 }
