@@ -19,12 +19,16 @@
 }
 
 .con {
-  
+ border-style: solid;
 }
 
 .con2 {
-  border-style: solid;
   padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: aqua;
 }
 
 .con3 {
