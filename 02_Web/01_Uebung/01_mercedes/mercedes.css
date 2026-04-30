@@ -19,6 +19,10 @@
   color: white;
 }
 
+.menuright {
+  ;
+}
+
 .menu li {
   display: inline-block;
   padding-left: 60px;
@@ -26,9 +30,9 @@
 .right li {
   display: inline-block;
   position: relative;
-  right: 70%;
-  padding-right: 8;
-  top: 20px;
+#
+
+  background-color: red;
 }
 .icon {
   height: 20px;
