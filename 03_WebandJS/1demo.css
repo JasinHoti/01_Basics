@@ -1,0 +1,30 @@
+h1{
+  justify-content: center;
+  display: flex;
+  color: white;
+  background-color: black;
+  padding: 20px;
+  height: 50px;
+  position: relative;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  background-color: #004d25;
+  color: white;
+}
+
+.ex1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    justify-content: center;
+    background-color: ;
+}
+
+.ex2{
+    margin-left: 900px;
+    margin-top: 60px;
+    justify-content: center;
+} 
